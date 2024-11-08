@@ -17,7 +17,7 @@ FrogCrypto Squeeze ($RIBBIT) is a groundbreaking DeFi protocol that implements r
 ## 🛠 Quick Start
 
 ```bash
-git clone https://github.com/your-username/frogcrypto-squeeze
+git clone https://github.com/AbhishekThak344/frogcrypto-squeeze
 cd frogcrypto-squeeze
 yarn install
 yarn ribbit
